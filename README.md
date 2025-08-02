@@ -62,6 +62,8 @@ CyberMentorAI — це генеративний агент, що надає ві
 
    - main.py — агент та логіка PDF + LLM.
 
+   - requirements.txt - список залежностей
+
    - README.md — цей файл.
 
    - cybersecurity_basics.pdf — PDF-файл (не додається).
