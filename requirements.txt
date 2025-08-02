@@ -1,0 +1,9 @@
+langchain
+langchain-community
+faiss-cpu
+pypdf
+PyPDF2
+transformers
+sentence-transformers
+streamlit
+pyngrok
